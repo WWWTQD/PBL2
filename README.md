@@ -100,7 +100,8 @@ After the build completes, run the generated `.exe` file.
 
 ## 📸 Demo / Screenshot
 
-![Interface Preview](demo.png)
+<img width="1752" height="907" alt="image" src="https://github.com/user-attachments/assets/28c28f02-84d9-4a5a-b419-ac6658a6acf3" />
+
 > Graphical interface demonstrating map generation and real-time path visualization.
 
 ---
